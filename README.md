@@ -19,65 +19,20 @@
     </p>
     <time class="f3 ttu tracked gray">Welcome to my GitHub</time>
     <p class="f4 lh-copy measure">
-      I got my start in my spare time, circa 2017, after realizing that I could transfer my understanding of computers from audio-engineering, into other technical fields. I spent a little over a year, self learning, and realized that I needed structure and guidance, which I received at <a href="https://lambdaschool.com/courses/full-stack-web-development">Lambda</a>. Having <a href="https://www.youracclaim.com/badges/179968c7-0dd9-473c-bdbd-34919b83d33b/public_url">completed the course</a>, I've grown the horizons of my learning massively, branching out into <a href="https://lambdaschool.com/courses/data-science">Data Science</a>, <a href="https://www.synthsforcompilers.dev/mathematics/2020/may/math-post-0/">Mathematics</a>, and <a href="https://www.synthsforcompilers.dev/physics/2020/july/hidden-rules-physics/">Physics.</a>
-    </p>
-    <p class="f3">My learning ranges far and wide, and I usually keep track of my notes in <a href="https://roamresearch.com">Roam Research</a>, but here's a list of what I'm diving into currently:
-      <ul>
-        <li></li>
-      </ul>    
-    </p>
+      I got my start in my spare time, circa 2017, after realizing that I could transfer my understanding of computers from audio-engineering, into other technical fields. I spent a little over a year, self learning, and realized that I needed structure and guidance, which I received at <a href="https://lambdaschool.com/courses/full-stack-web-development">Lambda</a>. Having <a href="https://www.youracclaim.com/badges/179968c7-0dd9-473c-bdbd-34919b83d33b/public_url">completed the course</a>, I've grown the horizons of my learning massively, branching out into <a href="https://lambdaschool.com/courses/data-science">Data Science</a> and <a>Analysis</a>, <a href="https://www.synthsforcompilers.dev/mathematics/2020/may/math-post-0/">Mathematics</a>, and(<a href="https://nextjournal.com/0xledev/computing-galactic-orbits-with-astropy-a-data-driven-ride-through-the-cosmos">Astro</a>) <a href="https://www.synthsforcompilers.dev/physics/2020/july/hidden-rules-physics/">Physics, as well as co-running a <a href="https://twitter.com/TheOlympiAcad">community</a> of fellow autodidact Physics enthusiasts.</a>
+      <p class="f4">In addition to that, I've moved into the world of cloud computing, becoming a certified <a href="https://www.youracclaim.com/badges/4582280c-e647-4665-b2f3-d34d9a83833b/public_url">AWS Cloud Practitioner</a>, you can take a look at my study notes <a href="https://0xledev.roaman.pub/pages/__Cloud-Practitioner__.html">here</a> if you'd like.</p>
+<br/>
+<div style="display:flex;flex-direction:column;padding-bottom:10px;">
+<a href="https://www.linkedin.com/in/lorev" style="padding-bottom:10px;">
+ LinkedIn<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+</html>
+</div>
   </div>
 </article>
-</html>
 
-### Currently Learning:
-# Technology
-### - AWS
-  #### add cert badge
-### - Python
-  #### mention team leading
-### - Clojure
-### - Rust
-# Mathematics
-### - Formal Logic (Mathematical Logic)
-
-### - Algebra
-
-### - Calculus 
-  ### - Integral Calculus
-  ### - Differential Calculus
-# Physics
-### - Classical Mechanics
-### 
-
-# > Data Science 
- ### - Numpy
- ### - Pandas
- ### - Matplotlib
-
-
-> I seek the abstract, conceptual, the deep and complex, & am prone to unorthodox, non-linear thinking. I'm particularly interested in Functional Programming languages (though I don't mind Object Oriented languages at all), systems, and data.
-<br/>
-<div style="display:flex;flex-direction:column;padding-bottom:10px;"><a href="https://twitter.com/0xledev">
-   (Twitter)<img align="left" alt="0xLEDev| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/lorev" style="padding-bottom:10px;">
- (LinkedIn) <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-</div>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 <!--
 **LorenzoEvans/LorenzoEvans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-Here are some ideas to get you started:
 
 
