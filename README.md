@@ -19,9 +19,13 @@
     </p>
     <time class="f3 ttu tracked gray">Welcome to my GitHub</time>
     <p class="f4 lh-copy measure">
-      I got my start in my spare time, circa 2017, after realizing that I could transfer my understanding of computers from audio-engineering, into other technical fields. I spent a little over a year, self learning, and realized that I needed structure and guidance, which I received at <a href="https://lambdaschool.com/courses/full-stack-web-development">Lambda</a>. Since then, I've grown the horizons of my learning massively, branching out into <a href="https://lambdaschool.com/courses/data-science">Data Science</a>, <a href="https://www.synthsforcompilers.dev/mathematics/2020/may/math-post-0/">Mathematics</a>, and <a href="https://www.synthsforcompilers.dev/physics/2020/july/hidden-rules-physics/">Physics.</a>
+      I got my start in my spare time, circa 2017, after realizing that I could transfer my understanding of computers from audio-engineering, into other technical fields. I spent a little over a year, self learning, and realized that I needed structure and guidance, which I received at <a href="https://lambdaschool.com/courses/full-stack-web-development">Lambda</a>. Having <a href="https://www.youracclaim.com/badges/179968c7-0dd9-473c-bdbd-34919b83d33b/public_url">completed the course</a>, I've grown the horizons of my learning massively, branching out into <a href="https://lambdaschool.com/courses/data-science">Data Science</a>, <a href="https://www.synthsforcompilers.dev/mathematics/2020/may/math-post-0/">Mathematics</a>, and <a href="https://www.synthsforcompilers.dev/physics/2020/july/hidden-rules-physics/">Physics.</a>
     </p>
-    <p class="f3">My learning ranges far and wide, and I usually keep track of my notes in <a href="https://roamresearch.com">Roam Research</a></p>
+    <p class="f3">My learning ranges far and wide, and I usually keep track of my notes in <a href="https://roamresearch.com">Roam Research</a>, but here's a list of what I'm diving into currently:
+      <ul>
+        <li></li>
+      </ul>    
+    </p>
   </div>
 </article>
 </html>
