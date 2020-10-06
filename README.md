@@ -38,10 +38,13 @@
 </div>
 <br/>
 <div style="display:flex;flex-direction:column;padding-bottom:10px;">
+</html>
 <a href="https://www.linkedin.com/in/lorev" style="padding-bottom:10px;">
  LinkedIn<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-</html>
+<a href="https://lorenzoevans.herokuapp.com/" style="padding-bottom:10px;">
+ Portfolio<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 </div>
   </div>
 </article>
