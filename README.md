@@ -43,7 +43,7 @@
  LinkedIn<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://lorenzoevans.herokuapp.com/" style="padding-bottom:10px;">
- Portfolio<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ Portfolio<img align="left" alt="Portfolio" />
 </a>
 </div>
   </div>
