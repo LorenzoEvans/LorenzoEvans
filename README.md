@@ -24,9 +24,9 @@
 <div>
   <span class="f2">Projects:</span>
   <ul>
-    <li><a href="https://github.com/LorenzoEvans/kurogane_os">Kurogane OS</a></li>
-    <li><a href="https://github.com/LorenzoEvans/ai10cle-api">ai10cle-api</a></li>
     <li><a href="https://nextjournal.com/0xledev/computing-galactic-orbits-with-astropy-a-data-driven-ride-through-the-cosmos">Computing Galactic Orbits In Astropy</a></li>
+    <li><a href="https://github.com/LorenzoEvans/ai10cle-api">ai10cle-api</a></li>
+    <li><a href="https://github.com/LorenzoEvans/kurogane_os">Kurogane OS</a></li>
     <li><a href="https://www.mykaisergroup.com">Kaiser Insurance Group Landing Page</a></li>
   </ul>
    <span class="f2">Study Notes:</span>
