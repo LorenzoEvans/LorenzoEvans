@@ -3,7 +3,7 @@
 <head>
 <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css">
 </head>
-<img src="ledevlogo.png"/>
+<img style="margin:0 auto;" src="ledevlogo.jpg"/>
 <article class="cf">
   <header class="fn fl-ns w-50-ns pr4-ns">
     <h1 class="f2 lh-title fw9 mb3 mt0 pt3 bt bw2">
