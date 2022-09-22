@@ -28,11 +28,6 @@
     <li><a href="https://github.com/LorenzoEvans/kurogane_os">Kurogane OS</a></li>
     <li><a href="https://www.mykaisergroup.com">Kaiser Insurance Group Landing Page</a></li>
   </ul>
-   <span class="f2">Study Notes:</span>
-   <ul>
-    <li>
-      <a href="https://github.com/LorenzoEvans/computational-linguistics">Computational Linguistics</a>
-    </li>
    </ul>
 </div>
 <br/>
