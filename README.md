@@ -9,17 +9,20 @@
     <h1 class="f2 lh-title fw9 mb3 mt0 pt3 bt bw2">
       About Me
     </h1>
-    <h2 class="f2 mid-gray lh-title">
-      Full Stack Developer, Functional Programmer, hobbyist mathematician, physicist, into systems.
-    </h2>
   </header>
   <div class="fn fl-ns w-50-ns">
     <p class="f3 lh-copy measure mt0-ns">
       I'm Lorenzo, and below you'll find a bit more about me, and my journey as a software engineer.
     </p>
-    <p class="f4 lh-copy measure">
-      I got my start in my spare time, circa 2017, after realizing that I could transfer my understanding of computers from audio-engineering, into other technical fields. I spent a little over a year, self learning, and realized that I needed structure and guidance, which I received at <a href="https://lambdaschool.com/courses/full-stack-web-development">Lambda</a>. Having <a href="https://www.youracclaim.com/badges/179968c7-0dd9-473c-bdbd-34919b83d33b/public_url">completed the course</a>, I've grown the horizons of my learning massively, branching out into <a href="https://lambdaschool.com/courses/data-science">Data Science</a> and <a>Analysis</a>, <a href="https://www.synthsforcompilers.dev/mathematics/2020/may/math-post-0/">Mathematics</a>, and(<a href="https://nextjournal.com/0xledev/computing-galactic-orbits-with-astropy-a-data-driven-ride-through-the-cosmos">Astro</a>) <a href="https://www.synthsforcompilers.dev/physics/2020/july/hidden-rules-physics/">Physics, <a href="https://twitter.com/TheOlympiAcad">as well as co-running a community</a> of fellow autodidact Physics enthusiasts.</a>
-      <p class="f4">In addition to that, I've moved into the world of cloud computing, becoming a certified <a href="https://www.youracclaim.com/badges/4582280c-e647-4665-b2f3-d34d9a83833b/public_url">AWS Cloud Practitioner</a>, you can take a look at my study notes <a href="https://ketrenzo.roam.garden">here</a> if you'd like.</p>
+I'm a software developer with a background in audio engineering, focusing on Rust and systems programming. My journey from artist to technologist has shaped my approach to problem-solving and software design.
+
+This transition was a mix of chance interactions and calculated leaps into the unknown.
+
+Rust is my tool of choice, because it's a philosophy and principles regarding memory safety and precision mirror the process of audio engineering in way that resonates with me.
+
+> "The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination." - Frederick P. Brooks
+
+   
 <div>
   <span class="f2">Projects:</span>
   <ul>
