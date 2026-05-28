@@ -33,6 +33,7 @@ Rust is my tool of choice, because it's a philosophy and principles regarding me
     <li><a href="https://github.com/LorenzoEvans/soundry">Soundry</a></li>
     <li><a href="https://github.com/LorenzoEvans/envelope">Envelope</a></li>
       <li><a href="https://github.com/LorenzoEvans/amixima">Amixima</a></li>
+    <li><a href="https://github.com/LorenzoEvans/petalblade">Petalblade</a></li>
   </ul>
    </ul>
 </div>
