@@ -25,10 +25,8 @@ Rust is my tool of choice, because it's a philosophy and principles regarding me
    
 <div>  
   
-  <span class="f2">Blog:</span>
-  <ul>
-    <li><a href="https://lorenzoevans.github.io/">Blog</a></li>
-  </ul>
+  <span class="f2">Blog: <li><a href="https://lorenzoevans.github.io/">Blog</a></li></span>
+
   <span class="f2">Projects:</span>
   <ul>
     <li><a href="https://nextjournal.com/0xledev/computing-galactic-orbits-with-astropy-a-data-driven-ride-through-the-cosmos">Computing Galactic Orbits In Astropy</a></li>
