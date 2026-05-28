@@ -30,6 +30,10 @@ Rust is my tool of choice, because it's a philosophy and principles regarding me
     <li><a href="https://github.com/LorenzoEvans/chemicli">Chemicli</a></li>
     <li><a href="https://github.com/LorenzoEvans/tapehead">Tapehead</a></li>
     <li><a href="https://github.com/LorenzoEvans/filemanager">Filemanager</a></li>
+        <li><a href="https://github.com/LorenzoEvans/petalblade">Petalblade</a></li>
+    <li><a href="https://github.com/LorenzoEvans/soundry">Soundry</a></li>
+    <li><a href="https://github.com/LorenzoEvans/envelope">Envelope<</a></li>
+      <li><a href="https://github.com/LorenzoEvans/amixima">Amixima<</a></li>
   </ul>
    </ul>
 </div>
