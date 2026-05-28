@@ -43,9 +43,6 @@ Rust is my tool of choice, because it's a philosophy and principles regarding me
 <br/>
 <div style="display:flex;flex-direction:column;padding-bottom:10px;">
 </html>
-<a href="https://lorenzoevans.github.io/" style="padding-bottom:10px;">
- Blog
-</a>
 
 </a>
 </div>
