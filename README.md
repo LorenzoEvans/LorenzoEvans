@@ -40,11 +40,10 @@ Rust is my tool of choice, because it's a philosophy and principles regarding me
 <br/>
 <div style="display:flex;flex-direction:column;padding-bottom:10px;">
 </html>
-<a href="https://www.linkedin.com/in/lorev" style="padding-bottom:10px;">
- LinkedIn<img style="padding-right:5px;" align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://lorenzoevans.github.io/" style="padding-bottom:10px;">
+ Blog
 </a>
-<a href="https://lorenzoevans.herokuapp.com/" style="padding-bottom:10px;">
- Portfolio<a align="left" alt="Portfolio" />
+
 </a>
 </div>
   </div>
