@@ -23,7 +23,11 @@ Rust is my tool of choice, because it's a philosophy and principles regarding me
 > "The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination." - Frederick P. Brooks
 
    
-<div>
+<div>  <span class="f2">Blog:</span>
+  
+  <ul><li><a href="https://lorenzoevans.github.io/" style="padding-bottom:10px;"></li></a></ul>
+ Blog
+</a>
   <span class="f2">Projects:</span>
   <ul>
     <li><a href="https://nextjournal.com/0xledev/computing-galactic-orbits-with-astropy-a-data-driven-ride-through-the-cosmos">Computing Galactic Orbits In Astropy</a></li>
