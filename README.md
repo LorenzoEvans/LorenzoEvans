@@ -25,7 +25,7 @@ Rust is my tool of choice, because it's a philosophy and principles regarding me
    
 <div>  
   
-  <span class="f2">Blog: <li><a href="https://lorenzoevans.github.io/">Blog</a></li></span>
+  <a href="https://lorenzoevans.github.io/">Blog</a>
 
   <span class="f2">Projects:</span>
   <ul>
